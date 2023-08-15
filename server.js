@@ -13,6 +13,8 @@ await fastify.register(FastifyMiddie)
 const moesifOptions = {
   applicationId: 'Your Application Id',
   debug: true,
+  // add other options, see available options from moesif nodejs docs:
+  // https://github.com/Moesif/moesif-nodejs#configuration-options
 };
 
 const moesifMiddleware = moesif(moesifOptions);

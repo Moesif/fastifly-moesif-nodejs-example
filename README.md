@@ -1,4 +1,4 @@
-# Moesif Express Example
+# Moesif Fastify Example
 
 [Fastify](https://fastify.dev/) is web framework for node.js.
 

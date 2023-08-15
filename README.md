@@ -3,9 +3,9 @@
 [Fastify](https://fastify.dev/) is web framework for node.js.
 
 [Moesif](https://www.moesif.com) is an API analytics and Monetization platform.
-[moesif-nodejs](https://github.com/Moesif/moesif-nodejs)
 
-is a middleware that makes integration with Moesif easy for Nodejs based apps including Express.
+[moesif-nodejs](https://github.com/Moesif/moesif-nodejs) is a middleware that makes integration with Moesif easy for Nodejs based apps including Express.
+
 This example is an express application with Moesif's API analytics and monitoring integrated.
 
 ## Fastify Middleware

@@ -11,7 +11,7 @@ This example is an express application with Moesif's API analytics and monitorin
 ## Fastify Middleware
 
 Per [fastify documentation](https://fastify.dev/docs/latest/Reference/Middleware/#middleware), by default,
-fastify do NOT support any middleware out of the box. You must use one of two plugins: [`@fastify/express`](https://github.com/fastify/fastify-express) or [`@fastify/middie`](https://github.com/fastify/middie).
+fastify do NOT support any middleware out of the box. You must use one of two plugins: [`@fastify/express`](https://github.com/fastify/fastify-express) or [`@fastify/middie`](https://github.com/fastify/middie) in order to use ANY middleware.
 
 
 ## How to run this example.

@@ -6,7 +6,7 @@
 
 [moesif-nodejs](https://github.com/Moesif/moesif-nodejs) is a middleware that makes integration with Moesif easy for Nodejs based apps including Express.
 
-This example is an express application with Moesif's API analytics and monitoring integrated.
+This example is a Fastify application with Moesif's API analytics middleware integrated.
 
 ## Fastify Middleware
 

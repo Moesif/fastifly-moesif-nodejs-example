@@ -36,7 +36,7 @@ const moesifOptions = {
 };
 ```
 
-3. Run the example, it will listen on port 5000.
+3. Run the example, it will listen on port 3050 .
 
 ```bash
 node server.js
